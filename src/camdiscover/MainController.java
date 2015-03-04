@@ -36,7 +36,7 @@ import javax.swing.event.DocumentEvent;
 /**
  * FXML Controller class
  *
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author Naik
  */
 public class MainController implements Initializable {
 
