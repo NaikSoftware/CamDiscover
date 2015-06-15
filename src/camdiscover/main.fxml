@@ -58,6 +58,16 @@
                </HBox.margin>
             </Label>
             <TextField fx:id="tfTimeout" prefWidth="60.0" />
+            <Label text="Ports:">
+               <HBox.margin>
+                  <Insets left="70.0" />
+               </HBox.margin>
+            </Label>
+            <TextField fx:id="tfPorts" prefWidth="270.0">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </TextField>
          </children>
          <VBox.margin>
             <Insets bottom="10.0" left="20.0" right="20.0" top="10.0" />
